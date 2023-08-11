@@ -2,6 +2,8 @@
 
 ## 로그인 버튼 만들기
 
+https://www.figma.com/file/1n0CJoq4OqYs92L0YaVDLL/%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8?type=design&node-id=0-1&mode=design&t=8W4USdL5i83knx6K-11
+
 - 피그마 이미지 구현
   ![image](https://github.com/dongapple/react-homwork/assets/74224516/ca6de308-b8a0-47ec-9286-a0d59b186869)
 
