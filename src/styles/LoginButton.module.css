@@ -1,0 +1,23 @@
+.loginbutton {
+  border: none;
+  border-radius: 5px;
+  width: 170px;
+  height: 40px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.ready {
+  background-color: #be3455;
+  color: #fff;
+}
+
+.hover {
+  background-color: #bf7486;
+  color: #fff;
+}
+
+.clicked {
+  background-color: #e3e3e3;
+  color: #be3455;
+}
